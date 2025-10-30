@@ -1,0 +1,64 @@
+site_name: 'Primeiro video'
+site_description: 'Primeiro video'
+#site_author: cmvaz
+#site_url: gitlab.com 
+
+#Repository
+#repo_name: 
+#repo_url: 
+
+
+theme:
+  palette:
+    primary: blue 
+    accent: deep-grey
+  name: material
+  language: 'pt'
+  favicon: favicon.ico
+  logo: 
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+
+nav:
+ - Home : index.md
+ - KBs Espaco Digital: 
+   - Portifolio: portifolio.md
+ - Iniciativas de inclusão digital:  
+   - Promover laboratórios inteligentes: laboratorio.md
+ - Aprendendo lógica:
+   - As 5 melhores linguagens de programação atuais: linguagens.md
+ - O mundo depois da IA:
+   - Profissionais depois da  IA: ia.md 
+ - Subpasta : subpasta/novo.md
+
+markdown_extensions:
+ - toc:
+     permalink: true
+     title: On this page
+ - pymdownx.tasklist:
+     custom_checkbox: true
+     clickable_checkbox: false
+ - admonition
+ - pymdownx.details
+ - pymdownx.superfences
+ - pymdownx.snippets
+
+extra:
+  social:
+    # - icon: material/email
+    #  link: mailto:
+    #  name: 
+    # - icon: material/slack
+    #  link: 
+    #  name: 
+    # - icon: material/microsoft-teams
+    #  name: 
+    # - icon: material/microsoft-teams
+    #  name: 

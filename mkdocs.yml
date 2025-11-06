@@ -1,5 +1,5 @@
-site_name: 'Primeiro video'
-site_description: 'Primeiro video'
+site_name: 'ba.gov.br Docs'
+site_description: 'ba.gov.br Docs'
 #site_author: cmvaz
 #site_url: gitlab.com 
 
@@ -21,23 +21,23 @@ theme:
     code: Roboto Mono
   features:
     - navigation.instant
+    - navigation.expand   
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
+    - navigation.expand
+    - toc.integrate
 
 nav:
  - Home : index.md
- - KBs Espaco Digital: 
-   - Portifolio: portifolio.md
- - Iniciativas de inclusão digital:  
-   - Promover laboratórios inteligentes: laboratorio.md
- - Aprendendo lógica:
-   - As 5 melhores linguagens de programação atuais: linguagens.md
- - O mundo depois da IA:
-   - Profissionais depois da  IA: ia.md 
- - Subpasta : subpasta/novo.md
-
+ - Devs: 
+    - Visão Geral: devs.md
+    - RespBuilder: respbuilder.md 
+ - POs: po.md 
+ - QAs: qa.md
+ - Devops: devops.md 
+ 
 markdown_extensions:
  - toc:
      permalink: true

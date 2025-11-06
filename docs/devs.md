@@ -1,0 +1,9 @@
+## Arquitetos da Solução
+---
+O time de desenvolvedores é o núcleo técnico de uma equipe de produto, responsável por transformar ideias e requisitos em soluções digitais funcionais. A partir das definições do Product Owner e das validações do time de QA, os Devs constroem o código que dá vida ao produto, utilizando linguagens de programação, frameworks e boas práticas de engenharia de software. Seu trabalho vai além da codificação: envolve análise, tomada de decisão e constante aprendizado.
+Além de implementar funcionalidades, os desenvolvedores também são responsáveis por garantir a manutenibilidade, escalabilidade e segurança do sistema. Isso inclui escrever testes automatizados, aplicar princípios de design limpo e colaborar com o time de DevOps para garantir que o software seja entregue de forma contínua e confiável. Um bom desenvolvedor não apenas escreve código — ele constrói soluções que resolvem problemas reais com eficiência e elegância.
+
+## Colaboração e Evolução Contínua
+---
+A colaboração é um dos pilares do trabalho dos desenvolvedores. Eles interagem constantemente com Product Owners, QAs, DevOps e outros stakeholders para entender o contexto do negócio, alinhar expectativas e garantir que o produto atenda às necessidades dos usuários. Participam de cerimônias ágeis como plannings, dailies e reviews, contribuindo com estimativas, sugestões técnicas e feedbacks construtivos.
+O papel do desenvolvedor também exige uma postura de evolução contínua. O ecossistema de tecnologia está em constante transformação, e os Devs precisam se manter atualizados com novas ferramentas, padrões e tendências. Essa mentalidade de aprendizado constante, aliada à capacidade de trabalhar em equipe e resolver problemas de forma criativa, é o que torna o time de desenvolvimento um motor essencial para a inovação e o sucesso de qualquer produto digital.
